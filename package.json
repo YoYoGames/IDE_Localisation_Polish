@@ -1,6 +1,6 @@
 {
   "name": "@localisation_plugins/polish",
-  "version": "1.0.0",
+  "version": "{$MAJOR}.{$MINOR}.{$BUILD}",
   "description": "Polish IDE localisations",
   "main": "index.js",
   "scripts": {
