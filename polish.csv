@@ -8056,3 +8056,5 @@ DeviceManager_Name_Already_Taken,A device with this name has already been create
 GMStdTime,Time,Czas,,DnD library argument label
 IncludedFile_OpenInExternEd,Open in External Editor,Otwórz w zewnętrznym programie,,open in external editor
 ResourceNode_OpenInExternalEditor,Open in External Editor,twórz w zewnętrznym programie,,resource node open in external editor
+lts_upgrade_title,LTS Upgrade Available,Dostępna aktualizacja LTS,,LTS Upgrade Available title
+lts_upgrade_text,This release is no longer supported but a new LTS upgrade is available from <a href=""https://releases.gamemaker.io"">https://releases.gamemaker.io</a>\n\nPlease upgrade at your earliest opportunity.,"Ta wersja nie jest już wspierana, ale nowa aktualizacja LTS jest dostępna na stronie <a href=""https://releases.gamemaker.io"">https://releases.gamemaker.io</a>\n\nDokonaj aktualizacji przy najbliższej okazji.",,LTS Upgrade text
